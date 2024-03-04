@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LeandroGessner
 - 👀 I’m interested in data projects
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Machine Learning, AI and Infra (docker mainly)
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 You can reach me in my email: leandrorafaelkg@gmail.com
 
 <!---
 LeandroGessner/LeandroGessner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
